@@ -1,0 +1,23 @@
+body{
+    background-image: url("http://7-themes.com/data_images/out/69/7006881-fantasy-nature-wallpaper-3d.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+     
+
+   }
+
+   p{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 150%;
+    color: darkgoldenrod
+   }
+
+
+    img {
+        border-radius: 50%;
+      }
+
+      
+   
+
